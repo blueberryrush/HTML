@@ -1,1 +1,61 @@
-# HTML
+# README.md
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WIRELESS EARBUD</title>
+</head>
+<body>
+    <U><center><h1>BOULT MUSTAND WIRELESS EARBUDS</h1></center></U>
+    <center><h2>Born from the legacy of Mustang</h2></center>
+    <p><b>GOBOULT X MUSTANG</b>is the latest innovation in <i>true wireless</i> audio. Engineered for <i>premium sound</i> and long lasting comfort, it is designed for gamers as well as music lovers..</p>
+    <hr>
+    <p>The <b>boult mustang</b>wireless earbuds are built for those who refuse to compromise on sound or style.featuring 50 hours playtime with fast charging capabilities and Bluebooth 5.4 connectivity,they ensure uninterrupted entertainment whether you are at a gym ,on a call or gaming with friends.With low-latency gaming mode and environmental noise cancellation,every beat stays sharp and every conversation remains clear.</p><!--about boult mustang wireless earbuds-->
+    <hr>
+    <h3>Key Features</h3>
+    <p>Experience next-gen audio with cutting-edge technology</p>
+    <ol type="dot"><!--some of its features-->
+        <li>50 Hours Of Playtime</li>
+        <li>Low-Latency Gaming Mode</li>
+        <li>Environmental Noise Cancellation</li>
+    </ol> 
+    <ul type="square">
+        <li value="1">Bluetooth 5.4 With Blink And Pair</li>
+        <li value="2">Fast charging (15 min = 120 min playtime)</li>
+        <li value="3">IPX5 Water Resistence</li>
+    </ul>
+    <br>
+    <br>
+    <center><IMG SRC="https://m.media-amazon.com/images/I/71q1X+E4tSL._UF1000,1000_QL80_.jpg" width="400" height="400"</center>
+        <center><p><s>1499</s></p></center>
+    <center><p>NOW PRICED AT JUST 1299</p></center>
+        <br>
+        <br>
+    <h4>Model Camparision</h4>  
+    <table border="1">
+        <tr>
+            <td>MODEL</td>
+            <td>BATTERY LIFE</td>
+            <td>PRICE</td>
+        </tr>
+        <tr>
+            <td>Boult Mustang</td>
+            <td>50 hours</td>
+            <td>1499</td>
+        </tr>
+        <tr>
+            <td>Boult Pro</td>
+            <td>45 hours</td>
+            <td>2999</td>
+        </tr>
+        <tr>
+            <td>Boult Sigma</td>
+            <td>60 hours</td>
+            <td>5999</td>
+        </tr>
+    </table>  
+
+    
+</body
+</html>
